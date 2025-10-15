@@ -3,8 +3,8 @@
 
 
 <div>
-<img src = 'https://github-readme-stats.vercel.app/api?username=Ri4n1990&show_icons=true&bg_color=4E69EF&text_color=E8F2C9&title_color=E8F2C9&icon_color=F07E4D&locale=pt-br&include_all_commits=true&rank_icon=github'  style="width:400px; height:200px;">
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4n1990&size_weight=0.5&count_weight=0.5&hide=handlebars&hide_title=true&bg_color=4E69EF&text_color=E8F2C9'style="width:400px; height:200px;">
+<img src = 'https://github-readme-stats.vercel.app/api?username=Ri4n1990&show_icons=true&bg_color=4E69EF&text_color=E8F2C9&title_color=E8F2C9&icon_color=F07E4D&locale=pt-br&include_all_commits=true&rank_icon=github'  style="width:50%; height:200px;">
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4n1990&size_weight=0.5&count_weight=0.5&hide=handlebars&hide_title=true&bg_color=4E69EF&text_color=E8F2C9'style="width:30%; height:200px;">
       
 
 </div>
