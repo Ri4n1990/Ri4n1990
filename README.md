@@ -1,16 +1,30 @@
-## Hi there 👋
+## Eae tudo bem? 👋
+<div>
+<img src = 'https://github-readme-stats.vercel.app/api?username=Ri4n1990&show_icons=true&bg_color=4E69EF&text_color=E8F2C9&title_color=E8F2C9&icon_color=F07E4D&locale=pt-br&include_all_commits=true&rank_icon=github'  style="width:495px; height:200px;">
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4n1990&size_weight=0.5&count_weight=0.5&hide=handlebars&hide_title=true&bg_color=4E69EF&text_color=E8F2C9'style="width:495px; height:200px;">
+</div>
 
-<!--
-**Ri4n1990/Ri4n1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = 'center'>
 
-Here are some ideas to get you started:
+  
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+
+  <div>
+    <a href = "https://devicon.dev/" target = '_blank'><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
+  </div>
+
+
+
+  
+</div>
