@@ -20,7 +20,8 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   
-</div> <br>
+</div> 
+<br>
 
 
 <div align = 'center'>
@@ -45,9 +46,10 @@
 
 
   
-</div>
+</div> <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ri4n1990&theme=dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ri4n1990&theme=github-dark&bg_color=4E69EF&color=E8F2C9&line=E8F2C9&point=F07E4D)
+
 
 
 
